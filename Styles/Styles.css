@@ -1,0 +1,51 @@
+html{
+    font-family: 'Roboto', sans-serif;   
+    font-size: 20px; 
+    line-height: 1.5; 
+    }
+
+body{
+    background-color: rgb(236, 231, 231);
+}
+
+.myphoto {
+    width: 380px;
+    height: 500px;
+    align-items: right;
+    margin-left: 150px;
+}
+
+.nature {
+    width: 250px;
+    height: 350px;
+    align-items: right;
+    margin-left: 110px;
+}
+
+.fish {
+    width: 300px;
+    height: 390px;
+    margin-left: 70px; 
+}
+
+p{
+    font-size: 20px;
+    text-align: left;
+    width: 1000px;
+    margin-left: 100px;
+    text-indent: 50px;
+}
+
+h1, h2{
+    text-align: center;
+}
+
+ li{
+    width: 1000px;
+    margin-left: 60px;
+    color: rgb(21, 5, 39);
+} 
+
+
+
+
