@@ -64,7 +64,7 @@ p {
     font-size: 20px;
     text-align: left;
     text-indent: 50px;
-    background-color: azure;
+/*     background-color: azure; */
     padding-left: 50px;
     padding-right: 50px;
 }
@@ -78,11 +78,11 @@ li {
     list-style-position: inside;
     padding-left: 60px;
     color: rgb(21, 5, 39);
-    background-color: azure;
+/*     background-color: azure; */
 }
 
 footer {
     width: 100%;
     text-align: center;
-    background-color: azure;
+/*     background-color: azure; */
 }
